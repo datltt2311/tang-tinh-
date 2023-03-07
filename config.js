@@ -1,8 +1,8 @@
 const nameGirl = 'Em';
 const giftUrl = 'https://www.instagram.com/stories/highlights/17869473941855844/?hl=vi';
 const eventName = 'Chúc Mừng 8/3';
-const titleCard = 'Tặng người ấy';
-const contentCard = 'Chúc em iu của anh 8/3 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau. .Nếu mà anh có làm gì ngu ngốc thì hãy tha thứ cho anh nhé. Iu emmmmmmmm';
+const titleCard = 'Tặng Thương';
+const contentCard = 'Chúc em iu của anh 8/3 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau. Nếu mà anh có làm gì ngu ngốc thì hãy tha thứ cho anh nhé. Iu emmmmmmmm';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
